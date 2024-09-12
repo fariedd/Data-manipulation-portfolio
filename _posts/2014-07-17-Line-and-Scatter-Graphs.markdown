@@ -26,13 +26,13 @@ alt: image-alt
   <img src="img/portfolio/line and scatter graphs/image.png" style="width: 60%; height: 40%; object-fit: contain;">
 </div>
 
-**Figure 3:** This project was monitoring the landing of teh first stage ofFalcon 9 rockets. The line graph visualises the overall success rate of Space X rockets landing since 2010.
+**Figure 3:** This project was monitoring the first stage landing of Falcon 9 rockets. The line graph visualises the overall success rate of Space X rockets landing since 2010.
 
 <div style="text-align: center;">
   <img src="img/portfolio/line and scatter graphs/length_weight.male_female.plot.png" style="width: 60%; height: 40%; object-fit: contain;">
 </div>
 
-**Figure 4:** This project monitored, measured and reported the fish caught by docking vessels along the coast. The scatter plot visualises the length weight relationship of Bigeye Tuna across sex caught by the vessels. 
+**Figure 4:** This project monitored, measured and reported the fish caught by docking vessels along the western coast. The scatter plot visualises the length weight relationship of Bigeye Tuna across sex caught by the vessels. 
 
 <div style="text-align: center;">
   <img src="img/portfolio/line and scatter graphs/wah.map.png" style="width: 60%; height: 40%; object-fit: contain;">

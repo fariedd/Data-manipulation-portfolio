@@ -31,7 +31,7 @@ alt: image-alt
         </figure>
 </div>
 **Figure 3:** The graphs shows *left;* Bayesian state-space model estimates (black lines) and 95% credible intervals (grey polygons) of the number of Cape fur seals, 1971/72–2020/21. *righ;* Posterior probability densities for the annual rate of
-change of the overall population of Cape Gannet Morus capensis over the last three generations (3G), the two most-recent generations (2G), the years corresponding to the most-recent generation (1G), and for all available years (All.yrs). 
+change of the overall population of Cape fur seals over the last three generations (3G), the two most-recent generations (2G), the years corresponding to the most-recent generation (1G), and for all available years (All.yrs). 
 
 
 <div style="text-align: center;">
@@ -43,7 +43,7 @@ change of the overall population of Cape Gannet Morus capensis over the last thr
 <div class="tiny-div" style ="width: 50px;height: 50px;background-color: white;"></div>
 
 
-**The dashboard below** was created by me to help students visualise categoriacal questionniare data for a Honey guide project,it is divided into mutually exclusive dataset (every input object belongs only to ONE class) and non mutually exclusive dataset (every input object belongs only to multiple class). Download the dummy dataset to see how to structure your own data and you can upload it to create bar graphs.Formating allows you to change the name of the axis, variables and classes.
+**The dashboard below** was created by me to help students visualise categoriacal questionniare data for a Honey guide project,it is divided into mutually exclusive dataset (every input object belongs only to ONE class) and non mutually exclusive dataset (input object belongs to multiple class). Download the dummy dataset to see how to structure your own data and you can upload it to create bar graphs.Formating allows you to change the name of the axis, variables and classes.
 br()
 <div class="tiny-div" style ="width: 50px;height: 20px;background-color: white;"></div>
 
