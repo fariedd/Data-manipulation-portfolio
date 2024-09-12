@@ -1,0 +1,50 @@
+---
+layout: default
+modal-id: 4
+date: 2014-07-15
+img: world-map.png
+alt: image-alt
+#project-date: April 2014
+#client: Start Bootstrap
+#category: Web Development
+#description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+---
+<div style="text-align: center;">
+  <img src="img/portfolio/Maps/jule.new.png" style="width: 60%; height: 40%; object-fit: contain;">
+</div>
+
+**Figure 1:** This map visualises Top; The locations of major Macaroni and Rockhopper Penguin breeding islands (red circles) in relation to the Antarctic Polar Front (APF) and Sub-Antarctic Polar Front (SAF); Crozet (Cr), Kerguelen (K), Amsterdam (A), Heard (H), Macquarie (M), Campbells (C),Antipodes (AT), Ildefonse and Diego Ramirez (ID), Falkland (F), South Georgia (SG), Tristan da Cunha (TC), Gough (G), Bouvetoya (B), Prince Edwards Islands (PEI, yellow triangle). Bottom; The Prince Edwards Islands, comprising Marion and Prince Edward Island and surrounding bathymetry.
+
+<div style="text-align: center;">
+  <img src="img/portfolio/Maps/mapoo2.png" style="width: 60%; height: 40%; object-fit: contain;">
+</div>
+
+**Figure 2:** The map shows the breeding sites sampled for diet of Macaroni Penguins and Eastern Rockhoppers Penguins at Marion Island.
+
+<div style="text-align: center;">
+  <img src="img/portfolio/Maps/Nosi 2 trial.png" style="width: 80%; height: 40%; object-fit: contain;">
+</div>
+
+**Figure 3:** The map shows the colony sites of Cape fur seals along the coast of South Africa.
+
+<div style="text-align: center;">
+  <img src="img/portfolio/Maps/bmrn.png" style="width: 60%; height: 40%; object-fit: contain;">
+</div>
+
+**Figure 4:** The map visualises the spatial distribution of tagged African Penguins GPS locations using Kernel density estimations,associated with foraging behaviour.
+
+<div style="text-align: center;">
+  <img src="img/portfolio/Maps/toothfish_set_haul_position_2.png" style="width: 60%; height: 40%; object-fit: contain;">
+</div>
+
+**Figure 5:** The globe map shows the Convention on the Conservation of Antarctic Marine Living Resources (CCAMLR) monitored areas, the location of fishing vessels (red dots) and ocean bathmetry.
+
+<div style="text-align: center;">
+  <img src="img/portfolio/Maps/bcre.2.map.png" style="width: 60%; height: 40%; object-fit: contain;">
+</div>
+
+**Figure 6:** The map shows position of line transect counts conducted within the Southern ocean (blue dots) the size of the dots corresponds to number of birds seen within the transects (bird density; bird.km^2). In relation to the mean location of Subtropical Convergence (STC), Sub-Antarctic Front (SAF), Antarctic Polar Front (APF), Southern Antarctic Circumpolar Front (SACCF) and Southern Boundary (SB; Orsi et al. 1995 ). Dividing the Southern Ocean into biogeographic zones;
+Subtropical Zone (STZ), Sub-Antarctic Zone (SAZ), Polar Frontal Zone (PFZ) and the Antarctic Zone
+(AZ) which is south of the APF.
+
+

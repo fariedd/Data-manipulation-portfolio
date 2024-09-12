@@ -2,7 +2,7 @@
 {% for post in site.posts %}
 <div class="portfolio-modal modal fade" id="portfolioModal-{{ post.modal-id }}" tabindex="-1" role="dialog"
   aria-hidden="true">
-  <div class="modal-content">
+  <div class="modal-content" >
     <div class="close-modal" data-dismiss="modal">
       <div class="lr">
         <div class="rl">
@@ -11,11 +11,11 @@
     </div>
     <div class="container">
       <div class="row">
-        <div class="col-lg-8 col-lg-offset-2">
-          <div class="modal-body">
-            <h2>{{ post.title }}</h2>
-            <hr class="star-primary">
-            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+        <div class="col-xl-8 col-xl-offset-2">
+          <div class="modal-body"style="text-align: justify;font-size: 12px;">
+            <h2 style="text-align: center;"> {{ post.title }} </h2>
+            <img src="img/portfolio/{{ post.img }}" style="width: 200px; height: 50%;" class="img-responsive img-centered" alt="{{ post.alt }}">
+            <hr style="height: 0.5px; width: 40%; border: none; background-color: black;">
             {% if post.description %}
             <p>{{ post.description }}</p>
             {% endif %}
@@ -36,6 +36,10 @@
               </li>
               {% endif %}
             </ul>
+            <div class="additional-content"  style = "font-size: 12px;">
+              {{ post.content }}
+            </div>
+            </div>
             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>
               Close</button>
           </div>
